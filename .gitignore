@@ -1,0 +1,4 @@
+*.md
+*.tmp
+*.docx
+venv
